@@ -1,0 +1,32 @@
+Tournament - The OpenSource Torney Management Toolset.
+
+Copyright (C) 2011-2014 Sergey Stepanov, Alexey Shiman
+
+The homepage of the Tournament is:
+http://tournmament.sourceforge.net/
+
+---
+
+You should see the following files and directories here:
+
+- README          - This file.
+- LICENSE_1_0.txt - Full text of the Boost license.
+- CHANGES         - The description of changes.
+
+- contrib         - Acknowledgements for contributions.
+
+- doc/            - Documentation.
+
+- build/          - Additional build scripts and configuration files
+                    for various compilation systems.
+
+- src/            - The source code of the library.
+
+- src/form_pairs/ - The command line tool for pairs forming.
+
+- src/round/      - The command line tool for round processing.
+
+
+Please see the doc/structure.html file for compilation instructions.
+
+---

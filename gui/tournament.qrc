@@ -1,0 +1,75 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tournament.qml</file>
+        <file>SlidePannel.qml</file>
+        <file>ParticipantsList.qml</file>
+        <file>ParticipantsDelegate.qml</file>
+        <file>controls/TextButton.qml</file>
+        <file>controls/ImageButton.qml</file>
+        <file>controls/LabeledText.qml</file>
+        <file>controls/Scrollable.qml</file>
+        <file>controls/ScrollBar.qml</file>
+        <file>controls/adaptive_search/search.js</file>
+        <file>controls/adaptive_search/AdaptiveSearch.qml</file>
+        <file>controls/adaptive_search/AdaptiveSearchPanel.qml</file>
+        <file>controls/adaptive_search/PanelButton.qml</file>
+        <file>data/pics/arrow.png</file>
+        <file>data/pics/back.png</file>
+        <file>data/pics/minus-sign.png</file>
+        <file>data/pics/moreDown.png</file>
+        <file>data/pics/moreUp.png</file>
+        <file>data/pics/participant.png</file>
+        <file>data/pics/plus-sign.png</file>
+        <file>data/pics/register.png</file>
+        <file>controls/adaptive_search/gfx/button.png</file>
+        <file>controls/adaptive_search/gfx/button_pressed.png</file>
+        <file>controls/adaptive_search/gfx/down.png</file>
+        <file>controls/adaptive_search/gfx/filterset.png</file>
+        <file>controls/adaptive_search/gfx/left.png</file>
+        <file>controls/adaptive_search/gfx/search.png</file>
+        <file>controls/adaptive_search/gfx/search_pressed.png</file>
+        <file>data/pics/duel.png</file>
+        <file>data/pics/exit.png</file>
+        <file>data/pics/load.png</file>
+        <file>data/pics/log.png</file>
+        <file>data/pics/setup.png</file>
+        <file>data/pics/star.png</file>
+        <file>data/pics/team.png</file>
+        <file>data/pics/default.png</file>
+        <file>data/pics/donate.png</file>
+        <file>data/pics/toolbaritem.png</file>
+        <file>data/pics/toolbaritem_h.png</file>
+        <file>controls/ToggleButton.qml</file>
+        <file>ParticipantFunctions.js</file>
+        <file>PairsDelegate.qml</file>
+        <file>PairsList.qml</file>
+        <file>controls/SpinButtons.qml</file>
+        <file>RoundsDelegate.qml</file>
+        <file>RoundsList.qml</file>
+        <file>data/pics/teams/BYE.png</file>
+        <file>data/pics/teams/ВТР.png</file>
+        <file>data/pics/teams/Вяльманрайх.png</file>
+        <file>data/pics/teams/Дарк Харт.png</file>
+        <file>data/pics/teams/КИР Tallskog.png</file>
+        <file>data/pics/teams/ККТФ Каролинг.png</file>
+        <file>data/pics/teams/ККТФ Логрус.png</file>
+        <file>data/pics/teams/ККТФ Мелиор.png</file>
+        <file>data/pics/teams/ККТФ Пересвет.png</file>
+        <file>data/pics/teams/ККТФ Угорт.png</file>
+        <file>data/pics/teams/ККТФ Эридан.png</file>
+        <file>data/pics/teams/КРИ Рассвет.png</file>
+        <file>data/pics/teams/МГ Конклав.png</file>
+        <file>data/pics/teams/Орден белого дракона.png</file>
+        <file>data/pics/teams/Ржавый Легион.png</file>
+        <file>data/pics/teams/РК Brave Souls.png</file>
+        <file>data/pics/teams/РК IronCats.png</file>
+        <file>data/pics/teams/РК Гриф.png</file>
+        <file>data/pics/teams/РК Легенда.png</file>
+        <file>data/pics/teams/РК Северный Ветер.png</file>
+        <file>data/pics/teams/РК Черный Грифон.png</file>
+        <file>data/pics/teams/РКИ Ясеневая Ветвь.png</file>
+        <file>data/pics/teams/Фомор.png</file>
+        <file>data/pics/teams/ШФ Regio Martia.png</file>
+        <file>data/pics/teams/ШФ Имладрис.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+# format
+# state:name:seed:size:deathmatch:details
+
+plan : Round 1: : : :
+plan : Round 2: : : :
+plan : Round 3: : : :
+plan : Round 4: : : :
+plan : Semi-Final : advance : 8 : deathmatch :
+plan : Final : advance : 4 : deathmatch :
+plan : Winners: : 2 : :
