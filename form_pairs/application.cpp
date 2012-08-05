@@ -101,7 +101,7 @@ application::application(int argument_count, char* argument_values[])
 void application::process_file(const std::string& name)
 {
 	std::ifstream is(name.c_str());
-	if(is.bad()) {
+	if(is.bad() || !is.is_open()) {
 		std::ostringstream os;
 		os << "Unable to open file " << name;
 		throw std::runtime_error(os.str());

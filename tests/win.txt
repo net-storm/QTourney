@@ -1,4 +1,0 @@
-round1 % p_1 : t_1 : 10 : 0 : 1700 % challenges % p_2 : t_2 : 7 : 2 : 1700 % 
-#round1 % p_1 : t_1 : 1 % fighting % p_2 : t_2 : 2  % 
-#round1 % p_2 : t_2 : 3  % wins  % p_1 : t_1 : 0 % 
-round1 % p_1 : t_1 : 3  % wins % p_2 : t_2 : 1  % 

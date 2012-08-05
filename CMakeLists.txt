@@ -22,6 +22,8 @@ include(SociUtilities)
 
 message(STATUS "")
 colormsg(_HIBLUE_ "Configuring Tournament:")
+enable_testing()
+set(CTEST_OUTPUT_ON_FAILURE ON)
 
 # Tournament version information
 include(SociVersion)

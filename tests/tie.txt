@@ -1,3 +1,0 @@
-round1 % p_1 : t_1 : 10 : 0 : 1700 % challenges % p_2 : t_2 : 7 : 2 : 1700 % 
-
-round1 % p_1 : t_1 : 0  % ties % p_2 : t_2 : 2  % 
